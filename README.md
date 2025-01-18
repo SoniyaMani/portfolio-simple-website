@@ -16,7 +16,7 @@ Welcome to my portfolio website! This project showcases my personal and professi
 
 ## How to view 
 
-You can access my portfolio website my visiting [link]
+You can access my portfolio website my visiting [https://soniyamani.github.io/portfolio-simple-website/]
 
 ## Future Improvements
 
